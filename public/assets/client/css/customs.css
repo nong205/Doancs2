@@ -1,0 +1,92 @@
+.login-or {
+    position: relative;
+    font-size: 18px;
+    color: #aaa;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.login-or .span-or {
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: 15px;
+    margin-left: -25px;
+    background-color: #fff;
+    width: 50px;
+    text-align: center;
+}
+
+.btn.btn-primary.btn-fb {
+    background: #3b5999;
+}
+
+.alert-success {
+    background-color: #D4EDDA;
+    color: #111111;
+}
+
+.swal-footer {
+    text-align: center;
+}
+
+.image-blog {
+    bottom: 0;
+    font-family: "object-fit: cover;";
+    height: 100%;
+    left: 0;
+    -o-object-fit: cover;
+    object-fit: cover;
+    -o-object-position: 50% 50%;
+    object-position: 50% 50%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
+}
+
+.btn-facebook {
+    align-items: center;
+    background: #1877f2;
+    color: #fff;
+    border-radius: 5px;
+    display: flex;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    gap: 4px;
+    height: 40px;
+    justify-content: center;
+    line-height: 20px;
+    margin: 0;
+    width: 100%;
+}
+
+.btn-facebook:hover {
+    opacity: 0.9;
+    color: #fff;
+}
+
+.btn-google {
+    align-items: center;
+    background: #e73b2f;
+    color: #fff;
+    border-radius: 5px;
+    display: flex;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    gap: 4px;
+    height: 40px;
+    justify-content: center;
+    line-height: 20px;
+    margin: 0;
+    width: 100%;
+}
+
+.btn-google:hover {
+    opacity: 0.9;
+    color: #fff;
+}
